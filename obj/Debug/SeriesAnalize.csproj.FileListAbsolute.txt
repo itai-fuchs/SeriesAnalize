@@ -1,0 +1,8 @@
+C:\Users\itai\source\repos\SeriesAnalize\obj\Debug\SeriesAnalize.csproj.AssemblyReference.cache
+C:\Users\itai\source\repos\SeriesAnalize\obj\Debug\SeriesAnalize.csproj.CoreCompileInputs.cache
+C:\Users\itai\source\repos\SeriesAnalize\bin\Debug\SeriesAnalize.exe.config
+C:\Users\itai\source\repos\SeriesAnalize\bin\Debug\SeriesAnalize.exe
+C:\Users\itai\source\repos\SeriesAnalize\bin\Debug\SeriesAnalize.pdb
+C:\Users\itai\source\repos\SeriesAnalize\obj\Debug\SeriesAnalize.exe
+C:\Users\itai\source\repos\SeriesAnalize\obj\Debug\SeriesAnalize.pdb
+C:\Users\itai\source\repos\SeriesAnalize\obj\Debug\SeriesAnalize.exe.config
