@@ -35,6 +35,7 @@ namespace SeriesAnalize
                         }
 
                     }
+                Console.WriteLine("Arguments received successfully");
                     return true;
                 }
 
